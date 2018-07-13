@@ -1,0 +1,73 @@
+{"A1USR9JCAMDGM3:30H4UDGLT3UVTUFN4C0J8YGZ69KMP1":
+
+{"part_1": {
+"like_log":[{"start_time": "17 13 51"}, "17 13 55", "17 13 59", "17 14 06", "17 14 07", "17 14 11", "17 14 21", "17 14 36", "17 14 50", "17 14 52", "17 15 16", "17 15 33"] , "questionnaire": [
+{"reverse": false, "name": "enjoyment", "composer": "bach", "id": 10, "condition": "scrambled", "response_value": "4"},
+{"reverse": false, "name": "desire-to-own", "composer": "bach", "id": 11, "condition": "scrambled", "response_value": "4"},
+{"reverse": false, "name": "affect", "composer": "bach", "id": 0, "condition": "scrambled", "response_value": "4"},
+{"reverse": false, "name": "coherence", "composer": "bach", "id": 1, "condition": "scrambled", "response_value": "4"},
+{"reverse": false, "name": "strangeness", "composer": "bach", "id": 2, "condition": "scrambled", "response_value": "0"},
+{"reverse": true, "name": "coherence-reverse", "composer": "bach", "id": 3, "condition": "scrambled", "response_value": "0"},
+{"reverse": true, "name": "strangeness-reverse", "composer": "bach", "id": 4, "condition": "scrambled", "response_value": "4"},
+{"reverse": true, "name": "affect-reverse", "composer": "bach", "id": 5, "condition": "scrambled", "response_value": "0"},
+{"reverse": false, "name": "dynamism", "composer": "bach", "id": 6, "condition": "scrambled", "response_value": "2"},
+{"reverse": true, "name": "expressiveness-reverse", "composer": "bach", "id": 7, "condition": "scrambled", "response_value": "0"},
+{"reverse": false, "name": "expressiveness", "composer": "bach", "id": 8, "condition": "scrambled", "response_value": "4"},
+{"reverse": true, "name": "dynamism-reverse", "composer": "bach", "id": 9, "condition": "scrambled", "response_value": "4"}
+], 
+"confidence": [{"is_target": false, "confidence": "2", "name": "bach_foil", "difficulty": "difficult", "judgment": "no", "id": 0},
+{"is_target": false, "confidence": "2", "name": "beethoven", "difficulty": "easy", "judgment": "no", "id": 1},
+{"is_target": true, "confidence": "1", "name": "bach_orig", "difficulty": "null", "judgment": "yes", "id": 2},
+{"is_target": false, "confidence": "1", "name": "satie", "difficulty": "easy", "judgment": "yes", "id": 3}
+]
+}, 
+"part_2": {"like_log": [{"start_time": "17 18 15"}, "17 18 34", "17 18 43", "17 19 07", "17 19 26", "17 19 33", "17 19 40", "17 19 49"], 
+
+"questionnaire": [{"reverse": false, "name": "enjoyment", "composer": "chopin", "id": 10, "condition": "scrambled", "response_value": "4"},
+{"reverse": false, "name": "desire-to-own", "composer": "chopin", "id": 11, "condition": "scrambled", "response_value": "3"},
+{"reverse": false, "name": "strangeness", "composer": "chopin", "id": 0, "condition": "scrambled", "response_value": "0"},
+{"reverse": true, "name": "strangeness-reverse", "composer": "chopin", "id": 1, "condition": "scrambled", "response_value": "3"},
+{"reverse": true, "name": "dynamism-reverse", "composer": "chopin", "id": 2, "condition": "scrambled", "response_value": "1"},
+{"reverse": false, "name": "affect", "composer": "chopin", "id": 3, "condition": "scrambled", "response_value": "3"},
+{"reverse": true, "name": "coherence-reverse", "composer": "chopin", "id": 4, "condition": "scrambled", "response_value": "0"},
+{"reverse": false, "name": "expressiveness", "composer": "chopin", "id": 5, "condition": "scrambled", "response_value": "2"},
+{"reverse": true, "name": "affect-reverse", "composer": "chopin", "id": 6, "condition": "scrambled", "response_value": "0"},
+{"reverse": false, "name": "coherence", "composer": "chopin", "id": 7, "condition": "scrambled", "response_value": "2"},
+{"reverse": false, "name": "dynamism", "composer": "chopin", "id": 8, "condition": "scrambled", "response_value": "3"},
+{"reverse": true, "name": "expressiveness-reverse", "composer": "chopin", "id": 9, "condition": "scrambled", "response_value": "2"}],
+
+ "confidence": [{"is_target": false, "confidence": "2", "name": "alla_turca", "difficulty": "easy", "judgment": "no", "id": 0},
+{"is_target": false, "confidence": "2", "name": "schubert", "difficulty": "easy", "judgment": "no", "id": 1},
+{"is_target": false, "confidence": "2", "name": "chopin_foil", "difficulty": "hard", "judgment": "no", "id": 2},
+{"is_target": true, "confidence": "2", "name": "chopin_orig", "difficulty": "null", "judgment": "yes", "id": 3}
+] }, 
+
+"postquestionnaire": {"demographic_info": {"lang_now": "English", "gender": "F", "age": "30-34", "handedness": "Right", "comm_difficulties": "", "lang_before6": "English", "tech_difficulties": ""}, "familiarity": {"years_composition": "0", "c1_familiarity": "", "p1_familiarity": "", "p2_familiarity": "", "percent_classical": "0", "years_theory": "0", "years_instrument": "0", "music_listening": "4", "c2_familiarity": ""}, "alteration_detection": {}} }
+
+},
+
+
+{"part_1": {"like_log": , "questionnaire": [], "confidence": []}, "part_2": {"like_log": [], "questionnaire": [], "confidence": [] }, "postquestionnaire":  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
